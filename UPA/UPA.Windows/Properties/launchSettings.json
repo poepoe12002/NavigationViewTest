@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "UPA.Windows": {
+      "commandName": "MsixPackage"
+    }
+  }
+}
